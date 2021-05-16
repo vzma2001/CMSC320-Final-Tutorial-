@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "CMSC320-Final-Tutorial",
+			"path": "."
+		}
+	],
+    "settings": {
+        "jupyter.jupyterServerType": "local"
+    }
+}
