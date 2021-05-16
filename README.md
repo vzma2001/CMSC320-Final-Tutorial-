@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 
 <div class="jp-Cell-inputWrapper">
@@ -3250,3 +3251,7 @@ This leads to the combining all these together .0082784 x .05 x .0000008704895 =
 </div>
 
 </div>
+=======
+Readme
+320
+>>>>>>> 1a906e677b5d5c354e8e3293d5c2b0d97913120a
